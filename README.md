@@ -26,6 +26,7 @@ This project is all about prediction of sales using machine learning techniques 
 - XGBoost
 
 🧠 Feature Engineering
+ 
  To enhance the model performance, new features were created:
 - Outlet_Age = Year of Corpus Base – Year of Construction
 - Visibility_MRP = Item_Visibility × Item_MRP
