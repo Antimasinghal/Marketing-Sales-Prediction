@@ -9,9 +9,9 @@ Identify important features affecting sales
 Provide data-driven business recommendations
 
 📂 Dataset Description
--The dataset has information about the products and outlets, which includes:
--Item_MRP (price of the product)
--Item_Visibility (how discoverable the product is in store)
+- The dataset has information about the products and outlets, which includes:
+- Item_MRP (price of the product)
+- Item_Visibility (how discoverable the product is in store)
 -Outlet_Type (type of store)
 -Outlet_Establishment_Year
 -Other categorical and numerical features
